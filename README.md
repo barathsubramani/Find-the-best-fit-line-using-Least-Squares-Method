@@ -66,7 +66,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
+<img src="">
 
 
 ## Result:
